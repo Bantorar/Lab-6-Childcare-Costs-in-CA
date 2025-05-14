@@ -1,5 +1,5 @@
 ---
-title: "Lab 8: California Childcare Costs"
+title: "Lab 6: California Childcare Costs"
 author: "Bayard Vinant-Tang"
 date: "2025-05-13"
 format:
